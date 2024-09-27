@@ -1,0 +1,120 @@
+.header{
+    display: flex;
+    background-color: purple;
+    border-radius: 1rem 1rem 0 0;
+    
+}
+.meme_title{
+    margin-right: auto;
+    text-indent: 10px;
+    color: white;
+}
+.project_title{
+    padding-right: 10px;
+    color: white;
+}
+.header_image{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+}
+.form{
+    padding: 30px;
+    display: grid;
+    grid-template-columns: auto auto;
+
+}
+.form_inputs{
+    
+    padding: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+    text-indent: 10px;
+}
+.form_button{
+    padding: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+    border-radius: 0.5rem;
+    margin-top: 20px;
+    margin-left: 465px;
+    margin-right: 120px;
+    background-color: purple;
+    border: 0ch;
+    color: white;
+    align-content: center;
+    
+}
+.mem_image{
+    padding-top: 50px;
+    align-items: center;
+    margin-left: 370px;
+    border-radius: 0.75rem 0.75rem;
+    max-width: 100%;
+}
+.add_item{
+    font-weight: bolder;
+    color: green;
+    
+}
+.my_contact{
+    background-color: purple;
+    color: white;
+    width: 70%;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.box_on{
+    border: 1px solid black;
+
+padding: 20px;
+margin-top: 10px;
+margin-left: 10px;
+margin-right: 10px;
+width: 5%;
+
+display: inline-block;
+}
+.box_off{
+    border: 1px solid black;
+
+padding: 20px;
+margin-top: 10px;
+margin-left: 10px;
+margin-right: 10px;
+background: blue;
+display: inline-block;
+}
+.boxBlack{
+    padding: 20px;
+margin-top: 10px;
+margin-left: 600px;
+margin-right: 600px;
+background-color: brown;
+}
+.top-text{
+    color: brown;
+    font-weight: bolder;
+    padding-left: 250px;
+    
+}
+.bottom-text{
+    color: brown;
+    font-weight: bolder;
+    padding-left: 250px;
+    
+}
+.color_change{
+    border: 1px solid black;
+    margin-top: 20px;
+    padding: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.form_color_change{
+    margin-top: 10px;
+    padding: 20px;
+    padding-right: 100%;
+    margin-left: 20%;
+    margin-right: 20%; 
+}
